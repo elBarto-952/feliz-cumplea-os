@@ -31,7 +31,7 @@ Este repositorio es mi sandbox público. Cada carpeta es un proyecto independien
 ## 🚀 Cómo usarlo
 
 Clona el repositorio:
-git clone 
+git clone https://github.com/elBarto-952/feliz-cumplea-os/blob/main/README.md
 Abre la carpeta del proyecto que te interese.
 Ábrelo en tu navegador, no hace falta ningún paso de compilación.index.html
 
