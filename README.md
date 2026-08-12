@@ -1,4 +1,5 @@
 🎨 CSS Sandbox
+
 Una colección creciente de mini-proyectos y experimentos de diseño en HTML, CSS y JavaScript. Cada nuevo proyecto que creo se añade aquí para que ustedes puedan coger el código, aprender de él y remezarlo.
 
 
@@ -11,14 +12,18 @@ Este repositorio es mi sandbox público. Cada proyecto es un proyecto independie
 Nuevos proyectos se añaden a esta tabla a medida que se publican — ¡vuelve a consultarlo a menudo!
 
 🛠️ Pila tecnológica
+
 HTML5 – estructura
 CSS3 – estilismo, maquetación, animaciones
 JavaScript (Vanilla) – interactividad, donde sea necesario
+
 🚀 Cómo usarlo
+
 Clona el repositorio:
-git clone https://github.com/MuhammadHaroon5/my-css-sandbox
+git clone https://github.com/elBarto-952/feliz-cumplea-os/edit/main/README.md
 Abre la carpeta del proyecto que te interese.
-Ábrelo en tu navegador (o usa una extensión de servidor en vivo) — eso es todo, no hace falta ningún paso de compilación.index.html
+Ábrelo en tu navegador, no hace falta ningún paso de compilación.index.html
 
 📄 Licencia
+
 Este proyecto es de código abierto y está disponible bajo la licencia MIT — siéntete libre de usar, aprender de él y construir sobre cualquiera de ellos. El crédito siempre es apreciado, pero no es obligatorio.
