@@ -12,8 +12,8 @@ Este repositorio es mi sandbox público. Cada carpeta es un proyecto independien
 
 ## 📁 Proyectos
 
-| Proyecto | Descripción | Tecnología utilizada | Demo |
-|---|---|---|---|
+| Proyecto | Descripción | Tecnología utilizada |
+|---|---|---|
 | [Página de inicio de sesión animada] | Página de inicio de sesión animada diseñada para desarrolladores | HTML, CSS, JS |
 
 > Nuevos proyectos se añadirán a esta tabla a medida que se publiquen — vuelve a consultarlo a menudo.
