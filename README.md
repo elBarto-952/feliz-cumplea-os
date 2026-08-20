@@ -1,6 +1,6 @@
 # 🎨 CSS Sandbox
 
-Una colección creciente de mini-proyectos y experimentos de diseño en HTML, CSS y JavaScript — diseñados para acompañar los tutoriales que publico en TikTok. Cada nuevo proyecto que creo se añade aquí para que mis seguidores puedan coger el código, aprender de él y recrearlo.
+Una colección creciente de mini-proyectos y experimentos de diseño en HTML, CSS y JavaScript. Cada nuevo proyecto que creo se añade aquí para que mis seguidores puedan coger el código, aprender de él y recrearlo.
 
 ---
 
